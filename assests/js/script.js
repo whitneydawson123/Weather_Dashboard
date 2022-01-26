@@ -1,0 +1,1 @@
+console.log('This is a new document. I hope that you love me');
